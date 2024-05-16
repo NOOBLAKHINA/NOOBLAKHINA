@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NOOBLAKHINA
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning node.js and react.js
-- 💞️ I’m looking to collaborate on a frontend development project
+- 👀 I’m interested in Embedded systems Development
+- 🌱 I’m currently learning device drivers.
+- 💞️ I’m looking to collaborate on a embedded systems development project
 - 📫 How to reach me :- email me:-gaurav133232@gmail.com
 
 
